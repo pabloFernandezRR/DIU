@@ -1,7 +1,7 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Vinos de Granada https://rutadelosvinosdegranada.com/ ) 
 
-Grupo: DIU3_07FernandezRios.  Curso: 2023/24 
+Grupo: DIU3_07 FernandezRios.  Curso: 2023/24 
 Updated: 11/3/2024
 
 Proyecto: 
